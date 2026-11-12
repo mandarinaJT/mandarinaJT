@@ -11,6 +11,11 @@ Computer Science student interested in software development, full-stack engineer
 - **Databases:** MySQL, Oracle
 - **Tools:** Git, Docker, Linux
 
+### 🎓 Education
+- Bachelor's studies in Computer Science
+- Elektronski Fakultet, Niš, Serbia
+- Expected graduation: 2027
+
 ### 🚀 Featured Projects
 
 - [Movie Rating Predictor](https://github.com/mandarinaJT) – Machine learning project for predicting movie ratings.
