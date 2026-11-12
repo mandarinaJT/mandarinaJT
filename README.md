@@ -1,7 +1,7 @@
 
 # Hi, I'm Jovan 👋
 
-Computer Science student interested in software development, backend engineering, and machine learning.
+Computer Science student interested in software development, full-stack engineering, and machine learning.
 
 ### 🛠️ Technologies & Tools
 
