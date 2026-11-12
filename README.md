@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**mandarinaJT/mandarinaJT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Jovan 👋
 
-Here are some ideas to get you started:
+Computer Science student interested in software development, backend engineering, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+
+- **Languages:** Python, JavaScript, C++, SQL
+- **Backend:** FastAPI, REST APIs
+- **Frontend:** React
+- **Databases:** MySQL, Oracle
+- **Tools:** Git, Docker, Linux
+
+### 🚀 Featured Projects
+
+- [Movie Rating Predictor](https://github.com/mandarinaJT) – Machine learning project for predicting movie ratings.
+- [Frizerski Salon](https://github.com/mandarinaJT/frizerski-salon) – Appointment management system built with FastAPI and React.
+
+### 📫 Contact
+
+- GitHub: [@mandarinaJT](https://github.com/mandarinaJT)
+
