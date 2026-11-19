@@ -5,11 +5,11 @@ Computer Science student interested in software development, full-stack engineer
 
 ### 🛠️ Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, SQL
-- **Backend:** FastAPI, REST APIs
+- **Languages:** Python, JavaScript, TypeScript, C#, C++, C, Java, SQL
+- **Backend:** FastAPI, .NET, Scikit-learn
 - **Frontend:** React
-- **Databases:** MySQL, Oracle
-- **Tools:** Git, Docker, Linux
+- **Databases:** MySQL, Oracle, Alembic
+- **Tools:** Git, Linux
 
 ### 🎓 Education
 - Bachelor's studies in Computer Science
@@ -18,9 +18,9 @@ Computer Science student interested in software development, full-stack engineer
 
 ### 🚀 Featured Projects
 
+- [BookMyFade](https://github.com/mandarinaJT/frizerski-salon) – Appointment management system built with FastAPI and React.
 - [Movie Rating Predictor](https://github.com/mandarinaJT) – Machine learning project for predicting movie ratings.
-- [Frizerski Salon](https://github.com/mandarinaJT/frizerski-salon) – Appointment management system built with FastAPI and React.
-
+  
 ### 📫 Contact
 
 - GitHub: [@mandarinaJT](https://github.com/mandarinaJT)
